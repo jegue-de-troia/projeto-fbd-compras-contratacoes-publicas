@@ -40,4 +40,3 @@ Os dados serão analisados, modelados e implementados utilizando **PostgreSQL**.
 # Status
 **Em desenvolvimnto**
 
-Em

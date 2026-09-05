@@ -37,7 +37,5 @@ Os dados serão analisados, modelados e implementados utilizando **PostgreSQL**.
 * `sql/` — Scripts SQL
 * `apresentacao/` — Materiais da apresentação
 
-## Status
-
 
 🚧 Em desenvolvimento.

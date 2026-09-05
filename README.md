@@ -38,6 +38,6 @@ Os dados serão analisados, modelados e implementados utilizando **PostgreSQL**.
 * `apresentacao/` — Materiais da apresentação
 
 ## Status
-**EM DESENVOLVIMENTO**
+Em Desenvolvimento
 
 🚧 Em desenvolvimento.

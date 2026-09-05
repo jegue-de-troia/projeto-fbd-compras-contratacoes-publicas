@@ -1,57 +1,42 @@
-Projeto de Banco de Dados — Compras Públicas
+# Projeto de Banco de Dados — Compras Públicas
 
-Projeto da disciplina de Fundamentos de Banco de Dados — 2026.2.
+Projeto da disciplina de **Fundamentos de Banco de Dados — 2026.2**.
 
-Equipe
+## Equipe
 
-Jeferson
+* Jeferson
+* Samuel
+* Renally
+* Henrique
+* Kauan
 
-Samuel
+## Tema
 
-Renally
+**Compras e Contratações Públicas**
 
-Henrique
-
-Kauan
-
-Tema
-
-Compras e Contratações Públicas
-
-Objetivo
+## Objetivo
 
 Desenvolver um banco de dados relacional a partir de dados reais de compras públicas, utilizando a API de Dados Abertos do Compras.gov.br.
 
+Os dados serão analisados, modelados e implementados utilizando **PostgreSQL**.
 
+## Tecnologias
 
-Os dados serão analisados, modelados e implementados utilizando PostgreSQL.
+* PostgreSQL
+* SQL
+* API de Dados Abertos do Compras.gov.br
+* GitHub
+* Markdown
 
-Tecnologias
+## Estrutura
 
-PostgreSQL
+* `docs/` — Documentação
+* `dados/` — Dados coletados e tratados
+* `codigo/` — Scripts utilizados no projeto
+* `modelagem/` — Modelagem do banco
+* `sql/` — Scripts SQL
+* `apresentacao/` — Materiais da apresentação
 
-SQL
+## Status
 
-API de Dados Abertos do Compras.gov.br
-
-GitHub
-
-Markdown
-
-Estrutura
-
-docs/ — Documentação
-
-dados/ — Dados coletados e tratados
-
-codigo/ — Scripts utilizados no projeto
-
-modelagem/ — Modelagem do banco
-
-sql/ — Scripts SQL
-
-apresentacao/ — Materiais da apresentação
-
-Status
-
-Em desenvolvimento.
+ Em desenvolvimento.

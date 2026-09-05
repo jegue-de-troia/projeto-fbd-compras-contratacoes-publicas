@@ -12,7 +12,7 @@ Projeto da disciplina de **Fundamentos de Banco de Dados — 2026.2**.
 
 ## Tema
 
-**Compras e Contratações Públicas**
+**concentração de fornecedores e diferenças entre valores estimados e contratados nas compras públicas municipais**
 
 ## Objetivo
 
